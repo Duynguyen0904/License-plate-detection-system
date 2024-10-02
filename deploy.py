@@ -156,7 +156,7 @@ def run_detection_in_roi(frame, model, classes):
 ###-------------------------------------main function-------------------------------------------
 def main(img_path=None, vid_path=None):
     print(f"[!] Loading model...")
-    model = YOLO('last.pt')
+    model = YOLO('license_plate.pt')
     classes = model.names
 
     ##----------------------------------------------for detection on image------------------------------------------
