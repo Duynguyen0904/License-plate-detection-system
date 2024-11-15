@@ -3,6 +3,7 @@ numpy==2.1.1
 opencv_contrib_python==4.10.0.84
 opencv_python==4.8.0.74
 ultralytics==8.0.143
+PyQt5==5.15.10
 ~==encv_python
 ~pencv_python==4.5.4.60
 ~pencv_python==4.5.5.64
